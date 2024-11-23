@@ -11,7 +11,7 @@ exp = ''         # behind-the-screen variable for storing √-expressions
 
 ## Init Window
 win = Tk()
-win.title("Calculator")
+win.title("Calculator App")
 win.attributes("-alpha", 0.90)
 win.resizable(False, False)
 
